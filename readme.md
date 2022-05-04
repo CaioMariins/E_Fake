@@ -26,6 +26,11 @@ O pdf "Relatório E_Fake_ "  consta com mais informações, e raciocínios sobre
 
 Este é um trabalho de caráter experimental e não me responsabilizo pelas consequências de más usos ou de informações inseridas ou preditas.
 
+## Plataforma:
+Não posso garantir que este link estará sempre online!
+https://e-fake.herokuapp.com/
+
+
 Autoria: Caio Marins Bento de Sousa
 Contato: caio.m.sousa@gmail.com
 18/03/2022
